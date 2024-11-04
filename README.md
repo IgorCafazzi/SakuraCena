@@ -19,3 +19,8 @@ script para sair do jogo:
 
 ![image](https://github.com/user-attachments/assets/6b2a4ce5-a05d-48b2-8e8b-662fe4268cb3)
 
+
+script movimentação (talvez só referência): 
+
+![image](https://github.com/user-attachments/assets/a165a777-ed44-4c69-829a-c3668f433a2c)
+
