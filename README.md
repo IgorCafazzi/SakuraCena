@@ -36,3 +36,10 @@ script patrulha boss:
 script caixa de dialogo:
 
 ![image](https://github.com/user-attachments/assets/f03bd498-546b-44e5-8fa1-f8edcb3f8c0b)
+
+barra de vida script:
+
+![image](https://github.com/user-attachments/assets/778aa7e9-17a0-4e35-ae63-0fc96e31cde4)
+![image](https://github.com/user-attachments/assets/5a311854-6b35-4eef-a377-fffcfb6fcc19)
+
+
