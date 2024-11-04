@@ -11,4 +11,11 @@ low poly casas: https://assetstore.unity.com/packages/3d/props/exterior/low-poly
 
 florestas: https://assetstore.unity.com/packages/3d/vegetation/lowpoly-forest-lite-291277  https://assetstore.unity.com/packages/3d/vegetation/environment-pack-free-forest-sample-168396  https://assetstore.unity.com/packages/3d/environments/landscapes/free-low-poly-nature-forest-205742
 
-script para troca de cena ao clicar no botão (menu): ![image](https://github.com/user-attachments/assets/fd376fed-d736-43b3-8560-4805ac41a5f4)
+script para troca de cena ao clicar no botão (menu): 
+
+![image](https://github.com/user-attachments/assets/fd376fed-d736-43b3-8560-4805ac41a5f4)
+
+script para sair do jogo: 
+
+![image](https://github.com/user-attachments/assets/6b2a4ce5-a05d-48b2-8e8b-662fe4268cb3)
+
