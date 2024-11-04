@@ -32,3 +32,5 @@ script patrulha boss:
 
 ![image](https://github.com/user-attachments/assets/c31b47fa-cb72-4f8a-b5b5-c199ffcab46a)
 
+
+script caixa de dialogo: ![image](https://github.com/user-attachments/assets/f03bd498-546b-44e5-8fa1-f8edcb3f8c0b)
