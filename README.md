@@ -24,3 +24,8 @@ script movimentação (talvez só referência):
 
 ![image](https://github.com/user-attachments/assets/a165a777-ed44-4c69-829a-c3668f433a2c)
 
+
+script patrulha boss: 
+
+![image](https://github.com/user-attachments/assets/c31b47fa-cb72-4f8a-b5b5-c199ffcab46a)
+
