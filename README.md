@@ -51,4 +51,39 @@ barra de vida script:
 ![image](https://github.com/user-attachments/assets/778aa7e9-17a0-4e35-ae63-0fc96e31cde4)
 ![image](https://github.com/user-attachments/assets/5a311854-6b35-4eef-a377-fffcfb6fcc19)
 
+using UnityEngine;
 
+public class TransformacaoPersonagem : MonoBehaviour
+{
+    // Prefabs dos dois estados do personagem
+    public GameObject formaInicial;
+    public GameObject formaTransformada;
+
+    // Define o estado inicial
+    private bool estaTransformado = false;
+
+    void Start()
+    {
+        // Ativa a forma inicial e desativa a transformada no início
+        formaInicial.SetActive(true);
+        formaTransformada.SetActive(false);
+    }
+
+    void Update()
+    {
+        // Verifica se a tecla T foi pressionada
+        if (Input.GetKeyDown(KeyCode.T))
+        {
+            AlternarForma();
+        }
+    }
+
+    void AlternarForma()
+    {
+        // Alterna entre as formas
+        estaTransformado = !estaTransformado;
+
+        formaInicial.SetActive(!estaTransformado);
+        formaTransformada.SetActive(estaTransformado);
+    }
+}
